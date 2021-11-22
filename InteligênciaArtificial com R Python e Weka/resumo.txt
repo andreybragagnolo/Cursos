@@ -1,0 +1,153 @@
+Problemas de busca e otimização (alto custo computacional) 
+- Exemplo caixeiro viajante 
+	- Quando se têm poucas etapas a serem resolvidas, é fácil
+	- Crescimento exponencial de acordo com a quantidade de cidades que necessitam de "passagem" 
+- Jogos
+- Problema de agendamento
+- Equações
+- Espaço 
+
+Por que não se fazer uma brute force? 
+- Maioria impossível 
+- Jogo Go - 19x19 casas (2.95123412512512 x 10^170)  => Maior que a quantidade de átomos do universo
+
+Otimização 
+
+-Redução do espaço de busca
+-Algoritmos Heurísticos (encontram uma solução aceitável)
+-Elementos Estocásticos (NDeterministicos - Aleatórios) 
+
+Classificação dos Algoritmos de busca
+- Existe solução? 
+- Solução ótima? (Brute Force) 
+- Complexidade de tempo 
+- Complexidade de espaço (quanta memória?) 
+
+Introdução 2 
+
+- S: Conjunto finito de estados
+- I: Conjunto finito de estados iniciais (labirinto)
+- O: Conjunto finito de objetivos
+- FS: Função que recebe o estado atual e retorna os estados alcançáveis
+- FC: Função de custo (estado atual e próximo estado e retorna o custo) 
+
+Local vs Global 
+- Força bruta - Busca Global - Quando acaba o tempo/tentativa ela pára. 
+- Busca Local - Melhor solução nas regiões ou na vizinhança 
+  - Não explora todos os estados
+  - Função de avaliação - Se não há melhoria - Encerra a busca
+	- Local Optima - Buscam solução na proximidade
+	- Encontram solução dentro da área de busca 
+	- Quanto menos estabelecida a vizinhança, mais rápida a solução
+
+Função de avaliação 
+- Demonstra quanto um resultado é adequado
+- Equação Lógica Matemática 
+- Quebra-cabeças por exemplo 
+
+Algoritmos de busca - Hill Climbing (Subida de montanha)
+- Inicia a busca em um ponto
+- Escolhe um novo ponto na vizinhança 
+- Se o novo ponto é a melhor solução - passa a ser a melhor solução 
+- Se não, escolhe outro ponto até não ter como "subir mais" - Local Optima (n garante o Global Optima)
+
+Blind Search (força bruta) - Melhor solução Global 
+- Não usam técnica de otimização - Percorrem todo o espaço de busca
+- "Backtracking" - Retorna estados para buscar solução melhor
+
+Custo - dificuldade de mudança de estado
+- Em alguns problemas é o mesmo entre diferentes problemas 
+- Custo de arestas com pesos (Caixeiro Viajante, por exemplo) 
+	- Distância em KM neste caso
+- Busca em profundidade (DFS) 
+	- explora uma vizinhança, retornando e tentando outras ramificações
+- Busca por "Melhor primeira busca" 
+	- Só será útil quando for possível aplicar função Heurística - Algoritmo que nem sempre retorna a melhor solução/mais rápida 
+Problemas de caminho - soluções parciais não servem (objetivo) 
+ - Em geral são resolvidos por Blind Search ou Brute Force 
+	- Labirinto 10x10 
+	1 - Transoformar labirinto em grafo (nós e arestas) 
+	2 - Vários pacotes específicos para tratamento de grafos 
+	3 - Nó Inicio, nós intermediários (sem saída, local optima - apenas inicial e intermediários
+podm ter saída ) e nó final.
+	4 - Dois ou mais caminhos diferentes - não são local optima
+	
+Por Hill Climbing - Probabilidade de encontrar a saída de primeira (21 nós) - 0.0017 (0.5 x 0.5 x...) = 0,1%  
+	- Função avaliação (Objeto) - Medir se caminho é bom ou ruim - Pode-se usar a contagem de mudança de estados que ocorreram 
+		- Solução dos 7 estados neste caso (19,16) - Estão à 7 estados do inicial, entretanto em 16 ainda podem ocorrer mudanças, ou seja, não é beco.
+
+Tabu Search - Mantém lista de locais proibidos em memória
+	- Ou por ja serem visitados ou por não otimizarem a Função Objetivo 
+	- Bom para problemas combinatórios 
+	- Parada por iterações, tempo 
+Simulated annealing - Não busca a otimização necessariamente, mas procura a exploração
+	- Eventualmente pode subir, mas procura locais que não necessariamente subirão (melhorar performance da solução encontrada)
+	- Variável "temperatura" - altera dinamicamente. Temperatura alta - funções que não otimizam objeto - ao invés de subir, explora.
+	- Temperatura baixa - tende a explorar a viziança e aceitar a solução local (local optima).
+
+
+######################### IMPLEMENTAÇÃO TABU SEARCH em R - Problema 711 #############################################
+
+Cliente compra roupas para sua famólia em uma loja. Chegando em casa percebe que algumas não serviram e volta a loja para pedir a devolução. 
+- Eu multipliquei o valor e deu 7,11
+- Você deveria ter somado
+- A soma também deu 7,11
+
+Quais valores multiplicados têm seu resultado 7,11?
+
+lista de compra : int codigo_Item, int valor 
+1 1.1, 2 1.2 , 3 1.25, 4 1.41, 5 1.50, 6 1.63 , 7 2.05, 8  2.22 ,9 2.65 ,10 2.90,11 3.04,12 3.16 
+
+Como solucionar ? 
+Cada uma das peças de roupa tem uma letra 
+Análise combinatória (Soma e Multiplicação) A+B = A*B, A+C = A*C, A+B+C = A*B*C => mais de 1 milhão de combinações
+
+Usando o Tabu Search com configuração binária 
+- Passase os valores para TabuSearch que passará para a Função de Avaliação um conjunto de 12 bits, que representa 1 item da nota fiscal. Se esse vetor tiver 1, deve-se
+incluir o produto na compra. Assim, a função escolhe uma combinação que será recebida pela função de Avaliação. O item que tiver valor 1 é substituído pelo valor real da 
+tabela. 
+Ou seja, em teoria a Tabu Search vai otimizar o problema antes da função avaliativa. Depois tira-se a prova com os elementos dados pela tabuSearch.  
+
+- Pacote Tabu Search tem uma função TabuSearch que envia os valores para a Função de Avaliação para verificar a combinação. Se for igual retorna 1, senão, retorna 0;
+
+- //sugestão >>> encontrar um retorno melhor para dizer o quanto está proximo do resultado desejado
+
+- Lembrar sempre da função Avaliação
+- Como funciona - 
+	Necessita da função de avaliação (compras) 
+	1 - Função de otimização
+		- Tabu search passa um vetor com 0 e 1. A compra naquela posição com 0 não deve ser utilizado no cálculo da soma e da multiplicação.
+		cada vez que o algoritmo interage, o Tabu search passa uma combinação de 0 e 1.
+		- Size -> Tamanho do vetor (numero de bits); Iters -> Combinações/Tentativas com combinações,objFunc -> Função Avaliação; listSize -> Memória Tabu que ele vai usar, nRestarts -> Numero de repetições, verbose = T -> Gerar saída  
+		- Soma -> Soma produtos em 1(Todos em 1); Produto -> multiplicação dos produtos em 1(Todos em 1);
+
+######################### SIMULATED ANEALLING ###################################################
+
+Otimização de função matemática (Rosenbrock's Function -> f(x,y) = (1-x)^2 + 100(y - x^2)^2 
+- Encontrar valor X e Y que retorna o melhor valor da função.
+Mínimo global - x e y=1
+
+Pacote GenSA
+- Busca o mínimo GLOBAL - quanto menor, melhor (Função de avaliação não-linear)
+- Algoritmo - Armazena x e y em um vetor z de 2 posições (1 p/ x e 2 p/ y) e retorna a fórmula executada 
+
+####################### ALGORITMOS GENÉTICOS #####################################################
+
+Visa a busca de uma solução otimizada para um problema 
+
+- Combinação dos genes dos pais
+- Podem ser introduzidas mudanças aleatórias 
+- O processo de especiação não necessariamente causam o desaparecimento de uma espécie anterior
+- Versão simplificada porém eficientes
+	- Na natureza, não existe condição de parada
+
+- Problemas de busca, otimização, agendamento 
+
+Conceitos 
+- Fitness: A cada geração, mede-se quão próxima ela está do problema ser resolvido
+- 
+
+
+
+
+ 

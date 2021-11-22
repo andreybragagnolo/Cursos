@@ -1,0 +1,1001 @@
+﻿ID;CHEQUEESPECIAL;HISTORICO_CREDITO;RESIDENCIA;Pagador
+1;<0;crítica / outros de crédito existente;própria;bom
+2;0<=X<200;existente e pago;própria;ruim
+3;sem cheque;crítica / outros de crédito existente;própria;bom
+4;<0;existente e pago;gratuitamente;bom
+5;<0;atrasos anteriores;gratuitamente;ruim
+6;sem cheque;existente e pago;gratuitamente;bom
+7;sem cheque;existente e pago;própria;bom
+8;0<=X<200;existente e pago;alugada;bom
+9;sem cheque;existente e pago;própria;bom
+10;0<=X<200;crítica / outros de crédito existente;própria;ruim
+11;0<=X<200;existente e pago;alugada;ruim
+12;<0;existente e pago;alugada;ruim
+13;0<=X<200;existente e pago;própria;bom
+14;<0;crítica / outros de crédito existente;própria;ruim
+15;<0;existente e pago;alugada;bom
+16;<0;existente e pago;própria;ruim
+17;sem cheque;crítica / outros de crédito existente;própria;bom
+18;<0;sem créditos/todos pagos;própria;bom
+19;0<=X<200;existente e pago;gratuitamente;ruim
+20;sem cheque;existente e pago;própria;bom
+21;sem cheque;crítica / outros de crédito existente;própria;bom
+22;<0;existente e pago;alugada;bom
+23;<0;crítica / outros de crédito existente;alugada;bom
+24;0<=X<200;crítica / outros de crédito existente;própria;bom
+25;sem cheque;crítica / outros de crédito existente;própria;bom
+26;<0;existente e pago;própria;bom
+27;sem cheque;sem créditos/todos pagos;própria;bom
+28;>=200;todos pagos;alugada;bom
+29;0<=X<200;existente e pago;própria;bom
+30;<0;atrasos anteriores;própria;ruim
+31;0<=X<200;existente e pago;própria;bom
+32;<0;existente e pago;própria;bom
+33;0<=X<200;existente e pago;própria;bom
+34;sem cheque;crítica / outros de crédito existente;alugada;bom
+35;>=200;existente e pago;própria;bom
+36;0<=X<200;crítica / outros de crédito existente;própria;ruim
+37;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+38;>=200;existente e pago;própria;ruim
+39;>=200;existente e pago;própria;bom
+40;0<=X<200;existente e pago;própria;bom
+41;sem cheque;existente e pago;própria;bom
+42;0<=X<200;existente e pago;própria;bom
+43;0<=X<200;atrasos anteriores;própria;bom
+44;<0;crítica / outros de crédito existente;alugada;bom
+45;<0;crítica / outros de crédito existente;gratuitamente;ruim
+46;sem cheque;crítica / outros de crédito existente;própria;bom
+47;sem cheque;existente e pago;própria;bom
+48;<0;existente e pago;alugada;bom
+49;sem cheque;crítica / outros de crédito existente;própria;bom
+50;sem cheque;existente e pago;própria;bom
+51;0<=X<200;atrasos anteriores;própria;bom
+52;0<=X<200;atrasos anteriores;própria;bom
+53;sem cheque;existente e pago;própria;bom
+54;sem cheque;existente e pago;própria;bom
+55;0<=X<200;atrasos anteriores;gratuitamente;ruim
+56;sem cheque;todos pagos;própria;bom
+57;0<=X<200;existente e pago;própria;ruim
+58;sem cheque;crítica / outros de crédito existente;própria;bom
+59;>=200;existente e pago;própria;bom
+60;<0;crítica / outros de crédito existente;alugada;ruim
+61;0<=X<200;existente e pago;própria;bom
+62;0<=X<200;crítica / outros de crédito existente;própria;bom
+63;0<=X<200;sem créditos/todos pagos;gratuitamente;ruim
+64;0<=X<200;sem créditos/todos pagos;própria;ruim
+65;sem cheque;existente e pago;própria;bom
+66;sem cheque;existente e pago;própria;bom
+67;sem cheque;existente e pago;própria;bom
+68;0<=X<200;existente e pago;própria;bom
+69;sem cheque;existente e pago;gratuitamente;ruim
+70;sem cheque;existente e pago;própria;bom
+71;sem cheque;existente e pago;própria;bom
+72;sem cheque;crítica / outros de crédito existente;alugada;bom
+73;<0;crítica / outros de crédito existente;gratuitamente;bom
+74;0<=X<200;crítica / outros de crédito existente;própria;bom
+75;<0;existente e pago;própria;ruim
+76;<0;crítica / outros de crédito existente;gratuitamente;bom
+77;<0;existente e pago;própria;ruim
+78;0<=X<200;atrasos anteriores;própria;bom
+79;sem cheque;sem créditos/todos pagos;própria;bom
+80;0<=X<200;existente e pago;própria;bom
+81;sem cheque;existente e pago;própria;ruim
+82;sem cheque;existente e pago;própria;bom
+83;sem cheque;existente e pago;alugada;bom
+84;<0;existente e pago;própria;bom
+85;<0;existente e pago;própria;bom
+86;sem cheque;crítica / outros de crédito existente;própria;bom
+87;0<=X<200;crítica / outros de crédito existente;própria;bom
+88;0<=X<200;existente e pago;gratuitamente;ruim
+89;<0;existente e pago;própria;bom
+90;<0;sem créditos/todos pagos;própria;ruim
+91;sem cheque;crítica / outros de crédito existente;própria;bom
+92;<0;crítica / outros de crédito existente;própria;bom
+93;sem cheque;crítica / outros de crédito existente;própria;ruim
+94;>=200;crítica / outros de crédito existente;alugada;bom
+95;0<=X<200;existente e pago;própria;bom
+96;0<=X<200;sem créditos/todos pagos;alugada;ruim
+97;sem cheque;crítica / outros de crédito existente;própria;bom
+98;0<=X<200;existente e pago;própria;bom
+99;0<=X<200;crítica / outros de crédito existente;própria;bom
+100;0<=X<200;atrasos anteriores;alugada;bom
+101;sem cheque;existente e pago;alugada;bom
+102;0<=X<200;existente e pago;alugada;bom
+103;sem cheque;atrasos anteriores;própria;bom
+104;0<=X<200;crítica / outros de crédito existente;alugada;bom
+105;sem cheque;existente e pago;alugada;bom
+106;0<=X<200;crítica / outros de crédito existente;própria;ruim
+107;sem cheque;todos pagos;própria;ruim
+108;0<=X<200;existente e pago;própria;bom
+109;<0;existente e pago;própria;bom
+110;0<=X<200;existente e pago;própria;bom
+111;0<=X<200;atrasos anteriores;própria;bom
+112;>=200;existente e pago;alugada;bom
+113;0<=X<200;existente e pago;alugada;bom
+114;sem cheque;crítica / outros de crédito existente;própria;ruim
+115;<0;existente e pago;própria;bom
+116;sem cheque;crítica / outros de crédito existente;própria;bom
+117;<0;existente e pago;própria;ruim
+118;<0;crítica / outros de crédito existente;alugada;bom
+119;<0;crítica / outros de crédito existente;própria;ruim
+120;0<=X<200;crítica / outros de crédito existente;própria;bom
+121;<0;existente e pago;própria;ruim
+122;sem cheque;crítica / outros de crédito existente;alugada;bom
+123;sem cheque;existente e pago;alugada;bom
+124;>=200;crítica / outros de crédito existente;gratuitamente;bom
+125;0<=X<200;existente e pago;alugada;ruim
+126;<0;crítica / outros de crédito existente;própria;bom
+127;<0;existente e pago;própria;bom
+128;0<=X<200;existente e pago;própria;ruim
+129;0<=X<200;crítica / outros de crédito existente;própria;bom
+130;<0;crítica / outros de crédito existente;própria;ruim
+131;0<=X<200;existente e pago;própria;bom
+132;<0;atrasos anteriores;própria;ruim
+133;sem cheque;existente e pago;própria;bom
+134;sem cheque;existente e pago;gratuitamente;bom
+135;sem cheque;existente e pago;própria;bom
+136;sem cheque;crítica / outros de crédito existente;própria;bom
+137;sem cheque;atrasos anteriores;própria;bom
+138;0<=X<200;existente e pago;própria;ruim
+139;0<=X<200;crítica / outros de crédito existente;própria;bom
+140;>=200;existente e pago;alugada;bom
+141;>=200;existente e pago;própria;bom
+142;0<=X<200;existente e pago;própria;bom
+143;<0;existente e pago;própria;bom
+144;<0;existente e pago;própria;ruim
+145;sem cheque;crítica / outros de crédito existente;própria;bom
+146;0<=X<200;todos pagos;própria;bom
+147;<0;crítica / outros de crédito existente;própria;bom
+148;sem cheque;crítica / outros de crédito existente;própria;bom
+149;<0;crítica / outros de crédito existente;própria;bom
+150;sem cheque;crítica / outros de crédito existente;própria;bom
+151;sem cheque;existente e pago;gratuitamente;bom
+152;sem cheque;existente e pago;própria;bom
+153;>=200;existente e pago;própria;bom
+154;0<=X<200;crítica / outros de crédito existente;alugada;bom
+155;0<=X<200;atrasos anteriores;alugada;bom
+156;<0;existente e pago;alugada;ruim
+157;<0;crítica / outros de crédito existente;própria;bom
+158;<0;todos pagos;própria;bom
+159;0<=X<200;existente e pago;própria;bom
+160;sem cheque;crítica / outros de crédito existente;própria;bom
+161;sem cheque;crítica / outros de crédito existente;própria;bom
+162;sem cheque;crítica / outros de crédito existente;própria;bom
+163;sem cheque;existente e pago;própria;bom
+164;0<=X<200;existente e pago;gratuitamente;bom
+165;sem cheque;existente e pago;própria;bom
+166;sem cheque;existente e pago;própria;bom
+167;<0;existente e pago;própria;ruim
+168;0<=X<200;existente e pago;própria;bom
+169;sem cheque;existente e pago;alugada;bom
+170;0<=X<200;crítica / outros de crédito existente;própria;ruim
+171;<0;sem créditos/todos pagos;alugada;ruim
+172;sem cheque;existente e pago;própria;bom
+173;0<=X<200;atrasos anteriores;própria;ruim
+174;0<=X<200;existente e pago;própria;bom
+175;<0;atrasos anteriores;própria;ruim
+176;sem cheque;todos pagos;própria;ruim
+177;<0;existente e pago;própria;bom
+178;<0;crítica / outros de crédito existente;própria;bom
+179;sem cheque;existente e pago;alugada;bom
+180;<0;crítica / outros de crédito existente;própria;bom
+181;sem cheque;atrasos anteriores;própria;ruim
+182;0<=X<200;atrasos anteriores;própria;ruim
+183;<0;todos pagos;própria;ruim
+184;sem cheque;crítica / outros de crédito existente;própria;bom
+185;0<=X<200;crítica / outros de crédito existente;própria;ruim
+186;sem cheque;crítica / outros de crédito existente;própria;bom
+187;0<=X<200;todos pagos;gratuitamente;ruim
+188;0<=X<200;crítica / outros de crédito existente;gratuitamente;bom
+189;<0;existente e pago;própria;ruim
+190;0<=X<200;sem créditos/todos pagos;própria;bom
+191;sem cheque;existente e pago;própria;ruim
+192;0<=X<200;sem créditos/todos pagos;gratuitamente;ruim
+193;0<=X<200;existente e pago;própria;ruim
+194;sem cheque;existente e pago;alugada;bom
+195;0<=X<200;existente e pago;alugada;ruim
+196;0<=X<200;crítica / outros de crédito existente;própria;ruim
+197;sem cheque;crítica / outros de crédito existente;própria;bom
+198;0<=X<200;existente e pago;alugada;ruim
+199;0<=X<200;existente e pago;gratuitamente;bom
+200;0<=X<200;atrasos anteriores;própria;ruim
+201;sem cheque;crítica / outros de crédito existente;própria;bom
+202;<0;existente e pago;própria;bom
+203;sem cheque;atrasos anteriores;própria;bom
+204;<0;existente e pago;alugada;ruim
+205;sem cheque;crítica / outros de crédito existente;própria;bom
+206;<0;crítica / outros de crédito existente;gratuitamente;bom
+207;sem cheque;crítica / outros de crédito existente;própria;bom
+208;0<=X<200;crítica / outros de crédito existente;própria;bom
+209;<0;existente e pago;própria;bom
+210;sem cheque;existente e pago;própria;bom
+211;sem cheque;crítica / outros de crédito existente;própria;bom
+212;sem cheque;existente e pago;própria;bom
+213;<0;sem créditos/todos pagos;própria;ruim
+214;>=200;atrasos anteriores;própria;ruim
+215;sem cheque;crítica / outros de crédito existente;própria;bom
+216;0<=X<200;crítica / outros de crédito existente;própria;bom
+217;<0;sem créditos/todos pagos;própria;bom
+218;>=200;existente e pago;própria;bom
+219;<0;existente e pago;alugada;bom
+220;sem cheque;existente e pago;própria;bom
+221;0<=X<200;existente e pago;própria;bom
+222;<0;existente e pago;alugada;bom
+223;sem cheque;existente e pago;própria;bom
+224;sem cheque;atrasos anteriores;própria;bom
+225;sem cheque;existente e pago;própria;bom
+226;sem cheque;sem créditos/todos pagos;própria;bom
+227;0<=X<200;existente e pago;própria;ruim
+228;<0;existente e pago;gratuitamente;ruim
+229;sem cheque;existente e pago;própria;ruim
+230;<0;existente e pago;gratuitamente;bom
+231;>=200;existente e pago;própria;ruim
+232;sem cheque;existente e pago;gratuitamente;bom
+233;sem cheque;existente e pago;própria;bom
+234;0<=X<200;existente e pago;própria;bom
+235;sem cheque;crítica / outros de crédito existente;própria;bom
+236;<0;existente e pago;própria;ruim
+237;0<=X<200;existente e pago;própria;ruim
+238;0<=X<200;existente e pago;alugada;ruim
+239;sem cheque;crítica / outros de crédito existente;própria;bom
+240;<0;existente e pago;própria;bom
+241;<0;existente e pago;própria;ruim
+242;sem cheque;existente e pago;própria;bom
+243;<0;sem créditos/todos pagos;gratuitamente;ruim
+244;sem cheque;crítica / outros de crédito existente;própria;bom
+245;sem cheque;todos pagos;própria;bom
+246;sem cheque;existente e pago;própria;bom
+247;sem cheque;crítica / outros de crédito existente;própria;bom
+248;sem cheque;sem créditos/todos pagos;alugada;bom
+249;>=200;existente e pago;própria;bom
+250;sem cheque;existente e pago;alugada;ruim
+251;<0;crítica / outros de crédito existente;própria;bom
+252;>=200;existente e pago;própria;bom
+253;0<=X<200;existente e pago;própria;ruim
+254;sem cheque;atrasos anteriores;própria;bom
+255;0<=X<200;existente e pago;própria;bom
+256;0<=X<200;atrasos anteriores;própria;bom
+257;sem cheque;crítica / outros de crédito existente;própria;bom
+258;<0;todos pagos;gratuitamente;ruim
+259;sem cheque;existente e pago;própria;bom
+260;sem cheque;crítica / outros de crédito existente;própria;bom
+261;<0;existente e pago;própria;bom
+262;<0;existente e pago;própria;bom
+263;<0;crítica / outros de crédito existente;gratuitamente;bom
+264;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+265;sem cheque;crítica / outros de crédito existente;própria;bom
+266;0<=X<200;existente e pago;própria;ruim
+267;sem cheque;crítica / outros de crédito existente;própria;bom
+268;sem cheque;existente e pago;própria;bom
+269;<0;existente e pago;própria;ruim
+270;sem cheque;existente e pago;própria;bom
+271;sem cheque;existente e pago;própria;bom
+272;sem cheque;crítica / outros de crédito existente;alugada;bom
+273;0<=X<200;todos pagos;gratuitamente;bom
+274;0<=X<200;existente e pago;própria;ruim
+275;<0;existente e pago;própria;ruim
+276;sem cheque;existente e pago;própria;bom
+277;sem cheque;crítica / outros de crédito existente;própria;bom
+278;<0;existente e pago;própria;bom
+279;sem cheque;existente e pago;própria;ruim
+280;sem cheque;existente e pago;alugada;bom
+281;sem cheque;crítica / outros de crédito existente;alugada;bom
+282;sem cheque;existente e pago;própria;bom
+283;>=200;todos pagos;própria;bom
+284;sem cheque;crítica / outros de crédito existente;própria;bom
+285;0<=X<200;crítica / outros de crédito existente;própria;bom
+286;<0;existente e pago;própria;bom
+287;<0;existente e pago;própria;bom
+288;0<=X<200;atrasos anteriores;gratuitamente;bom
+289;0<=X<200;existente e pago;própria;bom
+290;<0;atrasos anteriores;própria;ruim
+291;sem cheque;existente e pago;própria;bom
+292;0<=X<200;existente e pago;alugada;ruim
+293;<0;crítica / outros de crédito existente;gratuitamente;bom
+294;>=200;crítica / outros de crédito existente;gratuitamente;bom
+295;sem cheque;crítica / outros de crédito existente;própria;bom
+296;0<=X<200;existente e pago;própria;ruim
+297;sem cheque;existente e pago;alugada;bom
+298;sem cheque;existente e pago;própria;bom
+299;sem cheque;existente e pago;própria;bom
+300;0<=X<200;crítica / outros de crédito existente;própria;bom
+301;sem cheque;existente e pago;própria;bom
+302;0<=X<200;sem créditos/todos pagos;própria;ruim
+303;>=200;crítica / outros de crédito existente;própria;ruim
+304;<0;crítica / outros de crédito existente;própria;bom
+305;sem cheque;crítica / outros de crédito existente;gratuitamente;ruim
+306;sem cheque;existente e pago;própria;bom
+307;sem cheque;existente e pago;alugada;bom
+308;<0;existente e pago;própria;ruim
+309;0<=X<200;existente e pago;própria;ruim
+310;0<=X<200;existente e pago;alugada;bom
+311;0<=X<200;existente e pago;gratuitamente;bom
+312;sem cheque;existente e pago;própria;bom
+313;>=200;existente e pago;própria;bom
+314;0<=X<200;existente e pago;própria;ruim
+315;>=200;existente e pago;própria;bom
+316;<0;todos pagos;própria;ruim
+317;<0;existente e pago;própria;bom
+318;0<=X<200;existente e pago;própria;bom
+319;sem cheque;crítica / outros de crédito existente;própria;bom
+320;<0;atrasos anteriores;própria;bom
+321;0<=X<200;crítica / outros de crédito existente;própria;ruim
+322;<0;existente e pago;própria;ruim
+323;<0;existente e pago;gratuitamente;bom
+324;<0;existente e pago;própria;bom
+325;sem cheque;crítica / outros de crédito existente;própria;bom
+326;<0;crítica / outros de crédito existente;própria;bom
+327;sem cheque;crítica / outros de crédito existente;alugada;bom
+328;sem cheque;existente e pago;própria;bom
+329;>=200;existente e pago;própria;bom
+330;0<=X<200;existente e pago;própria;bom
+331;<0;crítica / outros de crédito existente;gratuitamente;bom
+332;sem cheque;crítica / outros de crédito existente;própria;ruim
+333;0<=X<200;existente e pago;própria;ruim
+334;sem cheque;crítica / outros de crédito existente;alugada;ruim
+335;<0;sem créditos/todos pagos;alugada;ruim
+336;<0;crítica / outros de crédito existente;alugada;ruim
+337;0<=X<200;existente e pago;própria;bom
+338;<0;existente e pago;alugada;ruim
+339;<0;existente e pago;própria;bom
+340;0<=X<200;existente e pago;própria;bom
+341;0<=X<200;crítica / outros de crédito existente;gratuitamente;bom
+342;<0;existente e pago;alugada;bom
+343;0<=X<200;existente e pago;alugada;bom
+344;0<=X<200;existente e pago;própria;bom
+345;>=200;existente e pago;própria;bom
+346;sem cheque;crítica / outros de crédito existente;própria;bom
+347;0<=X<200;crítica / outros de crédito existente;própria;bom
+348;0<=X<200;existente e pago;alugada;bom
+349;sem cheque;atrasos anteriores;própria;bom
+350;0<=X<200;crítica / outros de crédito existente;gratuitamente;ruim
+351;sem cheque;existente e pago;alugada;bom
+352;0<=X<200;existente e pago;própria;ruim
+353;sem cheque;crítica / outros de crédito existente;própria;bom
+354;<0;sem créditos/todos pagos;alugada;ruim
+355;sem cheque;existente e pago;gratuitamente;bom
+356;0<=X<200;existente e pago;própria;ruim
+357;sem cheque;crítica / outros de crédito existente;própria;bom
+358;sem cheque;atrasos anteriores;própria;ruim
+359;sem cheque;existente e pago;própria;bom
+360;<0;existente e pago;alugada;ruim
+361;0<=X<200;existente e pago;gratuitamente;bom
+362;>=200;existente e pago;própria;bom
+363;>=200;atrasos anteriores;própria;bom
+364;sem cheque;existente e pago;alugada;bom
+365;<0;existente e pago;própria;ruim
+366;sem cheque;existente e pago;própria;bom
+367;sem cheque;crítica / outros de crédito existente;própria;bom
+368;<0;existente e pago;alugada;bom
+369;<0;existente e pago;própria;ruim
+370;0<=X<200;existente e pago;alugada;bom
+371;sem cheque;existente e pago;própria;bom
+372;sem cheque;crítica / outros de crédito existente;própria;bom
+373;sem cheque;crítica / outros de crédito existente;alugada;bom
+374;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+375;0<=X<200;todos pagos;gratuitamente;ruim
+376;<0;todos pagos;alugada;ruim
+377;sem cheque;atrasos anteriores;própria;bom
+378;sem cheque;atrasos anteriores;gratuitamente;bom
+379;0<=X<200;existente e pago;gratuitamente;ruim
+380;sem cheque;crítica / outros de crédito existente;própria;bom
+381;<0;existente e pago;própria;bom
+382;0<=X<200;existente e pago;gratuitamente;ruim
+383;sem cheque;existente e pago;alugada;bom
+384;>=200;existente e pago;própria;bom
+385;sem cheque;atrasos anteriores;própria;bom
+386;sem cheque;crítica / outros de crédito existente;própria;bom
+387;sem cheque;existente e pago;alugada;bom
+388;0<=X<200;crítica / outros de crédito existente;própria;bom
+389;0<=X<200;crítica / outros de crédito existente;própria;bom
+390;sem cheque;existente e pago;própria;bom
+391;sem cheque;existente e pago;própria;bom
+392;0<=X<200;existente e pago;alugada;bom
+393;<0;existente e pago;gratuitamente;bom
+394;<0;crítica / outros de crédito existente;própria;bom
+395;sem cheque;crítica / outros de crédito existente;própria;bom
+396;0<=X<200;atrasos anteriores;alugada;bom
+397;<0;existente e pago;gratuitamente;bom
+398;<0;crítica / outros de crédito existente;própria;bom
+399;0<=X<200;existente e pago;alugada;ruim
+400;sem cheque;crítica / outros de crédito existente;própria;bom
+401;sem cheque;existente e pago;própria;bom
+402;0<=X<200;crítica / outros de crédito existente;própria;bom
+403;sem cheque;atrasos anteriores;própria;ruim
+404;sem cheque;atrasos anteriores;própria;bom
+405;0<=X<200;atrasos anteriores;própria;bom
+406;0<=X<200;existente e pago;própria;ruim
+407;sem cheque;crítica / outros de crédito existente;própria;bom
+408;<0;existente e pago;própria;bom
+409;sem cheque;existente e pago;própria;bom
+410;>=200;crítica / outros de crédito existente;própria;ruim
+411;0<=X<200;existente e pago;própria;bom
+412;sem cheque;crítica / outros de crédito existente;própria;bom
+413;sem cheque;crítica / outros de crédito existente;própria;ruim
+414;sem cheque;existente e pago;alugada;bom
+415;<0;existente e pago;própria;ruim
+416;sem cheque;crítica / outros de crédito existente;própria;bom
+417;<0;existente e pago;própria;ruim
+418;<0;atrasos anteriores;alugada;bom
+419;sem cheque;existente e pago;própria;bom
+420;0<=X<200;existente e pago;própria;ruim
+421;sem cheque;existente e pago;alugada;bom
+422;0<=X<200;existente e pago;própria;bom
+423;0<=X<200;crítica / outros de crédito existente;própria;bom
+424;sem cheque;atrasos anteriores;própria;bom
+425;0<=X<200;existente e pago;própria;ruim
+426;0<=X<200;existente e pago;alugada;bom
+427;sem cheque;crítica / outros de crédito existente;própria;bom
+428;sem cheque;crítica / outros de crédito existente;própria;bom
+429;sem cheque;existente e pago;própria;bom
+430;<0;crítica / outros de crédito existente;gratuitamente;ruim
+431;sem cheque;existente e pago;própria;bom
+432;0<=X<200;existente e pago;própria;ruim
+433;<0;crítica / outros de crédito existente;gratuitamente;bom
+434;sem cheque;crítica / outros de crédito existente;própria;bom
+435;<0;existente e pago;própria;bom
+436;0<=X<200;existente e pago;própria;ruim
+437;sem cheque;existente e pago;alugada;bom
+438;sem cheque;crítica / outros de crédito existente;própria;bom
+439;<0;crítica / outros de crédito existente;própria;bom
+440;>=200;todos pagos;própria;ruim
+441;sem cheque;existente e pago;própria;bom
+442;<0;existente e pago;própria;bom
+443;0<=X<200;atrasos anteriores;própria;bom
+444;sem cheque;existente e pago;própria;ruim
+445;0<=X<200;crítica / outros de crédito existente;própria;ruim
+446;sem cheque;crítica / outros de crédito existente;alugada;bom
+447;<0;existente e pago;própria;ruim
+448;0<=X<200;existente e pago;própria;bom
+449;>=200;existente e pago;própria;bom
+450;0<=X<200;atrasos anteriores;própria;ruim
+451;sem cheque;crítica / outros de crédito existente;própria;bom
+452;sem cheque;existente e pago;própria;bom
+453;sem cheque;sem créditos/todos pagos;própria;bom
+454;sem cheque;existente e pago;própria;bom
+455;<0;existente e pago;própria;ruim
+456;sem cheque;existente e pago;própria;bom
+457;<0;crítica / outros de crédito existente;alugada;bom
+458;<0;existente e pago;gratuitamente;ruim
+459;<0;existente e pago;própria;bom
+460;sem cheque;existente e pago;própria;bom
+461;<0;existente e pago;própria;bom
+462;<0;existente e pago;própria;bom
+463;0<=X<200;existente e pago;alugada;bom
+464;0<=X<200;existente e pago;própria;bom
+465;sem cheque;existente e pago;própria;bom
+466;<0;existente e pago;própria;bom
+467;<0;atrasos anteriores;alugada;ruim
+468;sem cheque;atrasos anteriores;própria;bom
+469;sem cheque;atrasos anteriores;própria;bom
+470;sem cheque;atrasos anteriores;própria;bom
+471;0<=X<200;existente e pago;alugada;ruim
+472;<0;existente e pago;própria;ruim
+473;<0;existente e pago;própria;ruim
+474;sem cheque;existente e pago;própria;bom
+475;0<=X<200;crítica / outros de crédito existente;própria;ruim
+476;<0;sem créditos/todos pagos;alugada;ruim
+477;sem cheque;existente e pago;própria;bom
+478;>=200;existente e pago;própria;bom
+479;0<=X<200;existente e pago;própria;bom
+480;<0;crítica / outros de crédito existente;própria;bom
+481;0<=X<200;crítica / outros de crédito existente;própria;bom
+482;0<=X<200;existente e pago;própria;bom
+483;<0;existente e pago;alugada;bom
+484;sem cheque;atrasos anteriores;própria;bom
+485;sem cheque;crítica / outros de crédito existente;própria;bom
+486;0<=X<200;atrasos anteriores;própria;ruim
+487;sem cheque;existente e pago;própria;bom
+488;sem cheque;existente e pago;gratuitamente;bom
+489;sem cheque;existente e pago;alugada;bom
+490;sem cheque;existente e pago;alugada;bom
+491;sem cheque;crítica / outros de crédito existente;própria;bom
+492;0<=X<200;sem créditos/todos pagos;gratuitamente;ruim
+493;sem cheque;crítica / outros de crédito existente;própria;bom
+494;0<=X<200;existente e pago;própria;bom
+495;<0;crítica / outros de crédito existente;alugada;bom
+496;<0;existente e pago;própria;ruim
+497;0<=X<200;existente e pago;alugada;ruim
+498;sem cheque;crítica / outros de crédito existente;própria;bom
+499;0<=X<200;existente e pago;própria;bom
+500;>=200;crítica / outros de crédito existente;própria;bom
+501;<0;existente e pago;própria;ruim
+502;<0;existente e pago;gratuitamente;bom
+503;>=200;existente e pago;própria;bom
+504;0<=X<200;crítica / outros de crédito existente;própria;ruim
+505;<0;existente e pago;alugada;ruim
+506;sem cheque;existente e pago;própria;ruim
+507;>=200;crítica / outros de crédito existente;própria;bom
+508;0<=X<200;todos pagos;própria;ruim
+509;sem cheque;existente e pago;própria;bom
+510;sem cheque;existente e pago;própria;bom
+511;<0;existente e pago;própria;ruim
+512;sem cheque;existente e pago;gratuitamente;bom
+513;>=200;existente e pago;alugada;bom
+514;0<=X<200;atrasos anteriores;alugada;bom
+515;sem cheque;existente e pago;própria;bom
+516;<0;crítica / outros de crédito existente;própria;bom
+517;<0;crítica / outros de crédito existente;própria;bom
+518;sem cheque;crítica / outros de crédito existente;alugada;ruim
+519;<0;existente e pago;própria;bom
+520;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+521;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+522;<0;existente e pago;própria;ruim
+523;<0;sem créditos/todos pagos;gratuitamente;ruim
+524;sem cheque;existente e pago;própria;bom
+525;0<=X<200;existente e pago;própria;bom
+526;0<=X<200;existente e pago;própria;bom
+527;sem cheque;crítica / outros de crédito existente;própria;bom
+528;sem cheque;crítica / outros de crédito existente;própria;bom
+529;<0;existente e pago;alugada;ruim
+530;<0;existente e pago;própria;bom
+531;0<=X<200;existente e pago;própria;bom
+532;0<=X<200;existente e pago;alugada;ruim
+533;sem cheque;atrasos anteriores;alugada;bom
+534;sem cheque;existente e pago;própria;bom
+535;sem cheque;existente e pago;própria;bom
+536;>=200;crítica / outros de crédito existente;alugada;ruim
+537;<0;existente e pago;própria;bom
+538;0<=X<200;crítica / outros de crédito existente;própria;bom
+539;<0;existente e pago;gratuitamente;ruim
+540;>=200;existente e pago;própria;bom
+541;0<=X<200;existente e pago;alugada;ruim
+542;sem cheque;atrasos anteriores;gratuitamente;bom
+543;<0;existente e pago;própria;ruim
+544;>=200;existente e pago;própria;ruim
+545;sem cheque;crítica / outros de crédito existente;própria;bom
+546;<0;atrasos anteriores;gratuitamente;ruim
+547;sem cheque;crítica / outros de crédito existente;própria;bom
+548;sem cheque;existente e pago;própria;bom
+549;<0;todos pagos;própria;ruim
+550;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+551;sem cheque;crítica / outros de crédito existente;própria;bom
+552;sem cheque;todos pagos;própria;bom
+553;<0;existente e pago;própria;ruim
+554;0<=X<200;crítica / outros de crédito existente;própria;bom
+555;0<=X<200;existente e pago;própria;bom
+556;0<=X<200;existente e pago;própria;ruim
+557;0<=X<200;sem créditos/todos pagos;própria;ruim
+558;sem cheque;sem créditos/todos pagos;própria;ruim
+559;<0;todos pagos;própria;ruim
+560;0<=X<200;crítica / outros de crédito existente;própria;ruim
+561;<0;existente e pago;gratuitamente;bom
+562;<0;todos pagos;alugada;ruim
+563;>=200;atrasos anteriores;própria;bom
+564;0<=X<200;existente e pago;gratuitamente;ruim
+565;0<=X<200;atrasos anteriores;própria;bom
+566;0<=X<200;atrasos anteriores;alugada;bom
+567;<0;existente e pago;própria;ruim
+568;sem cheque;crítica / outros de crédito existente;própria;bom
+569;0<=X<200;existente e pago;própria;bom
+570;<0;existente e pago;própria;ruim
+571;<0;existente e pago;alugada;ruim
+572;sem cheque;crítica / outros de crédito existente;própria;bom
+573;sem cheque;existente e pago;alugada;bom
+574;<0;existente e pago;própria;bom
+575;0<=X<200;existente e pago;própria;bom
+576;sem cheque;crítica / outros de crédito existente;própria;bom
+577;0<=X<200;existente e pago;própria;bom
+578;sem cheque;crítica / outros de crédito existente;própria;bom
+579;0<=X<200;crítica / outros de crédito existente;própria;ruim
+580;sem cheque;existente e pago;própria;bom
+581;0<=X<200;crítica / outros de crédito existente;própria;ruim
+582;0<=X<200;crítica / outros de crédito existente;própria;bom
+583;sem cheque;existente e pago;alugada;bom
+584;0<=X<200;existente e pago;alugada;ruim
+585;sem cheque;existente e pago;gratuitamente;bom
+586;<0;existente e pago;alugada;ruim
+587;<0;crítica / outros de crédito existente;alugada;bom
+588;<0;existente e pago;própria;bom
+589;<0;existente e pago;própria;ruim
+590;<0;crítica / outros de crédito existente;própria;ruim
+591;<0;crítica / outros de crédito existente;própria;bom
+592;0<=X<200;atrasos anteriores;alugada;bom
+593;sem cheque;existente e pago;própria;bom
+594;0<=X<200;existente e pago;alugada;ruim
+595;<0;todos pagos;própria;ruim
+596;0<=X<200;todos pagos;própria;ruim
+597;<0;existente e pago;alugada;ruim
+598;0<=X<200;sem créditos/todos pagos;própria;ruim
+599;sem cheque;crítica / outros de crédito existente;própria;ruim
+600;sem cheque;atrasos anteriores;gratuitamente;bom
+601;0<=X<200;existente e pago;própria;bom
+602;0<=X<200;existente e pago;própria;ruim
+603;0<=X<200;todos pagos;gratuitamente;ruim
+604;sem cheque;existente e pago;própria;ruim
+605;>=200;existente e pago;própria;bom
+606;<0;todos pagos;própria;bom
+607;sem cheque;crítica / outros de crédito existente;própria;bom
+608;0<=X<200;existente e pago;gratuitamente;ruim
+609;sem cheque;existente e pago;própria;bom
+610;sem cheque;existente e pago;gratuitamente;bom
+611;<0;existente e pago;própria;ruim
+612;>=200;existente e pago;gratuitamente;ruim
+613;<0;existente e pago;própria;bom
+614;<0;todos pagos;alugada;bom
+615;sem cheque;atrasos anteriores;própria;ruim
+616;0<=X<200;sem créditos/todos pagos;própria;bom
+617;0<=X<200;atrasos anteriores;gratuitamente;bom
+618;<0;crítica / outros de crédito existente;alugada;bom
+619;0<=X<200;existente e pago;alugada;ruim
+620;sem cheque;existente e pago;própria;bom
+621;0<=X<200;crítica / outros de crédito existente;própria;bom
+622;sem cheque;crítica / outros de crédito existente;própria;ruim
+623;sem cheque;existente e pago;própria;ruim
+624;<0;existente e pago;alugada;bom
+625;<0;existente e pago;gratuitamente;ruim
+626;sem cheque;existente e pago;própria;bom
+627;>=200;existente e pago;própria;bom
+628;0<=X<200;todos pagos;própria;ruim
+629;sem cheque;crítica / outros de crédito existente;própria;bom
+630;sem cheque;existente e pago;própria;bom
+631;<0;existente e pago;própria;bom
+632;<0;todos pagos;própria;ruim
+633;0<=X<200;existente e pago;própria;bom
+634;sem cheque;existente e pago;alugada;ruim
+635;0<=X<200;existente e pago;própria;ruim
+636;sem cheque;existente e pago;própria;bom
+637;sem cheque;existente e pago;própria;bom
+638;sem cheque;atrasos anteriores;própria;bom
+639;sem cheque;existente e pago;própria;bom
+640;<0;atrasos anteriores;própria;ruim
+641;<0;existente e pago;própria;ruim
+642;0<=X<200;existente e pago;própria;bom
+643;sem cheque;existente e pago;própria;ruim
+644;sem cheque;crítica / outros de crédito existente;própria;bom
+645;<0;crítica / outros de crédito existente;própria;bom
+646;sem cheque;atrasos anteriores;alugada;ruim
+647;<0;sem créditos/todos pagos;própria;bom
+648;sem cheque;existente e pago;própria;ruim
+649;>=200;existente e pago;gratuitamente;ruim
+650;<0;existente e pago;alugada;ruim
+651;<0;existente e pago;gratuitamente;bom
+652;0<=X<200;existente e pago;própria;ruim
+653;<0;existente e pago;própria;ruim
+654;0<=X<200;atrasos anteriores;própria;ruim
+655;sem cheque;crítica / outros de crédito existente;própria;bom
+656;<0;existente e pago;gratuitamente;bom
+657;0<=X<200;existente e pago;própria;ruim
+658;sem cheque;existente e pago;própria;bom
+659;0<=X<200;sem créditos/todos pagos;própria;bom
+660;0<=X<200;crítica / outros de crédito existente;própria;bom
+661;>=200;existente e pago;alugada;bom
+662;<0;existente e pago;própria;ruim
+663;sem cheque;existente e pago;própria;bom
+664;0<=X<200;atrasos anteriores;própria;bom
+665;>=200;crítica / outros de crédito existente;própria;bom
+666;sem cheque;crítica / outros de crédito existente;própria;bom
+667;0<=X<200;todos pagos;própria;bom
+668;sem cheque;todos pagos;própria;bom
+669;<0;crítica / outros de crédito existente;alugada;ruim
+670;>=200;crítica / outros de crédito existente;própria;bom
+671;sem cheque;crítica / outros de crédito existente;própria;bom
+672;sem cheque;existente e pago;própria;bom
+673;sem cheque;existente e pago;própria;bom
+674;sem cheque;crítica / outros de crédito existente;própria;bom
+675;sem cheque;atrasos anteriores;própria;ruim
+676;sem cheque;crítica / outros de crédito existente;alugada;bom
+677;sem cheque;crítica / outros de crédito existente;própria;bom
+678;0<=X<200;existente e pago;própria;ruim
+679;<0;existente e pago;alugada;bom
+680;sem cheque;existente e pago;própria;bom
+681;sem cheque;existente e pago;própria;bom
+682;sem cheque;existente e pago;gratuitamente;bom
+683;sem cheque;atrasos anteriores;própria;bom
+684;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+685;0<=X<200;atrasos anteriores;própria;bom
+686;sem cheque;existente e pago;gratuitamente;bom
+687;>=200;crítica / outros de crédito existente;própria;bom
+688;0<=X<200;atrasos anteriores;gratuitamente;bom
+689;sem cheque;existente e pago;própria;bom
+690;<0;existente e pago;própria;bom
+691;<0;crítica / outros de crédito existente;própria;bom
+692;0<=X<200;existente e pago;própria;bom
+693;0<=X<200;existente e pago;própria;bom
+694;<0;crítica / outros de crédito existente;própria;bom
+695;sem cheque;existente e pago;própria;bom
+696;sem cheque;existente e pago;alugada;bom
+697;0<=X<200;existente e pago;própria;bom
+698;sem cheque;crítica / outros de crédito existente;própria;bom
+699;sem cheque;crítica / outros de crédito existente;própria;bom
+700;>=200;existente e pago;alugada;bom
+701;sem cheque;existente e pago;alugada;ruim
+702;<0;crítica / outros de crédito existente;gratuitamente;ruim
+703;>=200;existente e pago;gratuitamente;bom
+704;0<=X<200;atrasos anteriores;própria;bom
+705;0<=X<200;existente e pago;própria;bom
+706;sem cheque;existente e pago;gratuitamente;bom
+707;0<=X<200;existente e pago;própria;ruim
+708;0<=X<200;sem créditos/todos pagos;alugada;ruim
+709;0<=X<200;existente e pago;própria;bom
+710;0<=X<200;existente e pago;própria;bom
+711;sem cheque;crítica / outros de crédito existente;própria;bom
+712;<0;todos pagos;gratuitamente;ruim
+713;sem cheque;existente e pago;própria;bom
+714;<0;crítica / outros de crédito existente;própria;bom
+715;0<=X<200;existente e pago;própria;ruim
+716;sem cheque;crítica / outros de crédito existente;própria;bom
+717;sem cheque;crítica / outros de crédito existente;própria;bom
+718;sem cheque;existente e pago;gratuitamente;bom
+719;>=200;crítica / outros de crédito existente;própria;bom
+720;0<=X<200;sem créditos/todos pagos;própria;bom
+721;>=200;sem créditos/todos pagos;própria;ruim
+722;0<=X<200;todos pagos;alugada;ruim
+723;<0;existente e pago;própria;ruim
+724;0<=X<200;existente e pago;própria;bom
+725;sem cheque;existente e pago;alugada;ruim
+726;sem cheque;crítica / outros de crédito existente;própria;bom
+727;sem cheque;crítica / outros de crédito existente;própria;bom
+728;<0;existente e pago;alugada;ruim
+729;0<=X<200;todos pagos;alugada;ruim
+730;>=200;crítica / outros de crédito existente;própria;bom
+731;0<=X<200;atrasos anteriores;própria;bom
+732;<0;existente e pago;alugada;ruim
+733;0<=X<200;existente e pago;própria;bom
+734;sem cheque;existente e pago;alugada;bom
+735;sem cheque;crítica / outros de crédito existente;própria;bom
+736;0<=X<200;todos pagos;própria;bom
+737;0<=X<200;existente e pago;alugada;ruim
+738;<0;existente e pago;própria;bom
+739;sem cheque;crítica / outros de crédito existente;própria;bom
+740;0<=X<200;sem créditos/todos pagos;alugada;ruim
+741;<0;todos pagos;própria;bom
+742;0<=X<200;todos pagos;própria;bom
+743;sem cheque;existente e pago;própria;bom
+744;<0;todos pagos;própria;bom
+745;<0;crítica / outros de crédito existente;própria;bom
+746;<0;crítica / outros de crédito existente;própria;bom
+747;<0;existente e pago;alugada;bom
+748;<0;existente e pago;própria;ruim
+749;sem cheque;existente e pago;própria;bom
+750;sem cheque;existente e pago;própria;bom
+751;<0;existente e pago;própria;bom
+752;<0;existente e pago;própria;ruim
+753;0<=X<200;existente e pago;alugada;bom
+754;sem cheque;crítica / outros de crédito existente;própria;bom
+755;sem cheque;atrasos anteriores;gratuitamente;ruim
+756;<0;existente e pago;alugada;ruim
+757;>=200;crítica / outros de crédito existente;própria;bom
+758;>=200;crítica / outros de crédito existente;gratuitamente;ruim
+759;sem cheque;existente e pago;própria;bom
+760;<0;crítica / outros de crédito existente;própria;ruim
+761;sem cheque;crítica / outros de crédito existente;própria;bom
+762;<0;crítica / outros de crédito existente;alugada;ruim
+763;<0;existente e pago;própria;bom
+764;sem cheque;crítica / outros de crédito existente;gratuitamente;ruim
+765;sem cheque;crítica / outros de crédito existente;própria;bom
+766;0<=X<200;existente e pago;própria;bom
+767;<0;existente e pago;própria;ruim
+768;sem cheque;existente e pago;alugada;bom
+769;0<=X<200;crítica / outros de crédito existente;alugada;bom
+770;sem cheque;crítica / outros de crédito existente;própria;bom
+771;<0;existente e pago;alugada;bom
+772;<0;crítica / outros de crédito existente;própria;ruim
+773;sem cheque;crítica / outros de crédito existente;própria;bom
+774;sem cheque;crítica / outros de crédito existente;própria;bom
+775;>=200;crítica / outros de crédito existente;gratuitamente;bom
+776;<0;existente e pago;alugada;ruim
+777;sem cheque;crítica / outros de crédito existente;própria;bom
+778;<0;existente e pago;própria;bom
+779;sem cheque;crítica / outros de crédito existente;própria;bom
+780;0<=X<200;existente e pago;própria;bom
+781;0<=X<200;crítica / outros de crédito existente;própria;ruim
+782;sem cheque;crítica / outros de crédito existente;própria;bom
+783;0<=X<200;sem créditos/todos pagos;própria;bom
+784;0<=X<200;existente e pago;própria;ruim
+785;0<=X<200;existente e pago;própria;bom
+786;0<=X<200;existente e pago;própria;bom
+787;sem cheque;existente e pago;própria;bom
+788;sem cheque;crítica / outros de crédito existente;própria;bom
+789;0<=X<200;atrasos anteriores;gratuitamente;ruim
+790;<0;crítica / outros de crédito existente;própria;ruim
+791;0<=X<200;existente e pago;própria;ruim
+792;sem cheque;existente e pago;própria;bom
+793;sem cheque;crítica / outros de crédito existente;própria;bom
+794;>=200;existente e pago;gratuitamente;bom
+795;sem cheque;existente e pago;alugada;bom
+796;sem cheque;existente e pago;alugada;bom
+797;<0;existente e pago;gratuitamente;ruim
+798;sem cheque;crítica / outros de crédito existente;alugada;bom
+799;sem cheque;atrasos anteriores;própria;bom
+800;0<=X<200;existente e pago;própria;bom
+801;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+802;0<=X<200;crítica / outros de crédito existente;alugada;bom
+803;<0;crítica / outros de crédito existente;própria;bom
+804;sem cheque;crítica / outros de crédito existente;própria;bom
+805;0<=X<200;existente e pago;alugada;bom
+806;<0;existente e pago;própria;ruim
+807;0<=X<200;existente e pago;própria;bom
+808;sem cheque;crítica / outros de crédito existente;própria;bom
+809;0<=X<200;todos pagos;gratuitamente;bom
+810;0<=X<200;sem créditos/todos pagos;alugada;ruim
+811;0<=X<200;existente e pago;própria;bom
+812;0<=X<200;existente e pago;própria;bom
+813;<0;crítica / outros de crédito existente;própria;ruim
+814;<0;existente e pago;própria;ruim
+815;<0;existente e pago;gratuitamente;ruim
+816;0<=X<200;atrasos anteriores;alugada;bom
+817;sem cheque;existente e pago;própria;bom
+818;sem cheque;crítica / outros de crédito existente;alugada;bom
+819;<0;existente e pago;própria;bom
+820;<0;existente e pago;própria;ruim
+821;sem cheque;existente e pago;própria;bom
+822;>=200;existente e pago;própria;bom
+823;<0;existente e pago;própria;ruim
+824;<0;crítica / outros de crédito existente;própria;bom
+825;sem cheque;crítica / outros de crédito existente;própria;bom
+826;<0;crítica / outros de crédito existente;própria;bom
+827;<0;crítica / outros de crédito existente;alugada;ruim
+828;sem cheque;sem créditos/todos pagos;própria;ruim
+829;<0;existente e pago;gratuitamente;ruim
+830;0<=X<200;atrasos anteriores;gratuitamente;bom
+831;sem cheque;atrasos anteriores;própria;bom
+832;<0;existente e pago;alugada;ruim
+833;<0;sem créditos/todos pagos;alugada;ruim
+834;0<=X<200;existente e pago;própria;bom
+835;>=200;existente e pago;própria;ruim
+836;<0;sem créditos/todos pagos;própria;ruim
+837;sem cheque;existente e pago;própria;bom
+838;sem cheque;existente e pago;alugada;bom
+839;<0;crítica / outros de crédito existente;própria;bom
+840;sem cheque;crítica / outros de crédito existente;própria;bom
+841;<0;existente e pago;própria;ruim
+842;sem cheque;atrasos anteriores;própria;bom
+843;sem cheque;existente e pago;própria;ruim
+844;sem cheque;todos pagos;própria;bom
+845;sem cheque;existente e pago;própria;bom
+846;0<=X<200;existente e pago;própria;bom
+847;sem cheque;existente e pago;alugada;ruim
+848;sem cheque;existente e pago;própria;bom
+849;<0;existente e pago;própria;bom
+850;<0;existente e pago;própria;ruim
+851;<0;crítica / outros de crédito existente;alugada;ruim
+852;sem cheque;crítica / outros de crédito existente;própria;bom
+853;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+854;<0;todos pagos;gratuitamente;ruim
+855;sem cheque;atrasos anteriores;própria;bom
+856;sem cheque;existente e pago;própria;bom
+857;sem cheque;existente e pago;própria;bom
+858;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+859;<0;existente e pago;própria;ruim
+860;sem cheque;existente e pago;alugada;bom
+861;sem cheque;crítica / outros de crédito existente;própria;bom
+862;sem cheque;atrasos anteriores;própria;ruim
+863;<0;existente e pago;própria;ruim
+864;sem cheque;crítica / outros de crédito existente;própria;bom
+865;sem cheque;existente e pago;alugada;ruim
+866;sem cheque;existente e pago;alugada;bom
+867;<0;existente e pago;própria;bom
+868;sem cheque;crítica / outros de crédito existente;própria;bom
+869;sem cheque;existente e pago;própria;bom
+870;<0;existente e pago;alugada;bom
+871;sem cheque;atrasos anteriores;própria;bom
+872;>=200;crítica / outros de crédito existente;própria;bom
+873;<0;crítica / outros de crédito existente;própria;bom
+874;sem cheque;existente e pago;própria;bom
+875;<0;existente e pago;própria;bom
+876;0<=X<200;crítica / outros de crédito existente;própria;bom
+877;<0;todos pagos;gratuitamente;bom
+878;sem cheque;existente e pago;própria;bom
+879;<0;existente e pago;gratuitamente;ruim
+880;sem cheque;crítica / outros de crédito existente;própria;bom
+881;sem cheque;existente e pago;própria;bom
+882;sem cheque;existente e pago;gratuitamente;bom
+883;0<=X<200;crítica / outros de crédito existente;própria;bom
+884;sem cheque;crítica / outros de crédito existente;própria;bom
+885;0<=X<200;existente e pago;própria;ruim
+886;<0;existente e pago;própria;ruim
+887;0<=X<200;crítica / outros de crédito existente;própria;bom
+888;0<=X<200;existente e pago;própria;ruim
+889;sem cheque;crítica / outros de crédito existente;própria;bom
+890;sem cheque;todos pagos;alugada;bom
+891;<0;crítica / outros de crédito existente;própria;bom
+892;sem cheque;crítica / outros de crédito existente;própria;bom
+893;<0;crítica / outros de crédito existente;própria;bom
+894;0<=X<200;crítica / outros de crédito existente;própria;bom
+895;sem cheque;crítica / outros de crédito existente;própria;bom
+896;sem cheque;atrasos anteriores;própria;bom
+897;<0;existente e pago;alugada;bom
+898;sem cheque;crítica / outros de crédito existente;própria;bom
+899;sem cheque;existente e pago;alugada;bom
+900;<0;existente e pago;própria;ruim
+901;<0;crítica / outros de crédito existente;alugada;ruim
+902;sem cheque;crítica / outros de crédito existente;própria;bom
+903;sem cheque;crítica / outros de crédito existente;gratuitamente;bom
+904;sem cheque;existente e pago;alugada;bom
+905;sem cheque;existente e pago;própria;bom
+906;<0;existente e pago;alugada;bom
+907;<0;existente e pago;própria;bom
+908;0<=X<200;existente e pago;própria;bom
+909;sem cheque;atrasos anteriores;própria;bom
+910;0<=X<200;existente e pago;própria;bom
+911;sem cheque;atrasos anteriores;própria;bom
+912;0<=X<200;crítica / outros de crédito existente;própria;ruim
+913;0<=X<200;existente e pago;própria;bom
+914;sem cheque;existente e pago;própria;bom
+915;<0;todos pagos;alugada;ruim
+916;0<=X<200;sem créditos/todos pagos;própria;ruim
+917;sem cheque;existente e pago;própria;bom
+918;<0;existente e pago;própria;ruim
+919;<0;existente e pago;própria;ruim
+920;<0;existente e pago;alugada;ruim
+921;sem cheque;crítica / outros de crédito existente;própria;bom
+922;sem cheque;atrasos anteriores;própria;bom
+923;<0;existente e pago;alugada;ruim
+924;0<=X<200;existente e pago;alugada;bom
+925;<0;todos pagos;própria;ruim
+926;<0;todos pagos;própria;ruim
+927;<0;crítica / outros de crédito existente;alugada;bom
+928;<0;existente e pago;gratuitamente;ruim
+929;sem cheque;existente e pago;própria;bom
+930;<0;atrasos anteriores;própria;bom
+931;<0;existente e pago;própria;bom
+932;0<=X<200;existente e pago;própria;ruim
+933;sem cheque;crítica / outros de crédito existente;própria;bom
+934;sem cheque;crítica / outros de crédito existente;própria;bom
+935;<0;existente e pago;própria;bom
+936;0<=X<200;atrasos anteriores;própria;ruim
+937;>=200;existente e pago;própria;ruim
+938;0<=X<200;existente e pago;alugada;bom
+939;0<=X<200;existente e pago;gratuitamente;ruim
+940;sem cheque;crítica / outros de crédito existente;própria;bom
+941;sem cheque;existente e pago;própria;bom
+942;sem cheque;existente e pago;própria;bom
+943;sem cheque;existente e pago;própria;bom
+944;sem cheque;crítica / outros de crédito existente;própria;bom
+945;<0;existente e pago;alugada;bom
+946;0<=X<200;sem créditos/todos pagos;própria;bom
+947;<0;todos pagos;gratuitamente;ruim
+948;sem cheque;existente e pago;própria;bom
+949;sem cheque;existente e pago;própria;ruim
+950;sem cheque;existente e pago;própria;ruim
+951;0<=X<200;crítica / outros de crédito existente;própria;bom
+952;<0;atrasos anteriores;própria;ruim
+953;0<=X<200;existente e pago;alugada;ruim
+954;sem cheque;existente e pago;própria;ruim
+955;<0;existente e pago;própria;bom
+956;<0;crítica / outros de crédito existente;alugada;bom
+957;>=200;crítica / outros de crédito existente;própria;bom
+958;0<=X<200;crítica / outros de crédito existente;própria;bom
+959;<0;existente e pago;própria;ruim
+960;0<=X<200;existente e pago;gratuitamente;bom
+961;sem cheque;crítica / outros de crédito existente;alugada;bom
+962;0<=X<200;atrasos anteriores;própria;bom
+963;sem cheque;existente e pago;própria;bom
+964;sem cheque;existente e pago;própria;ruim
+965;0<=X<200;existente e pago;própria;bom
+966;0<=X<200;existente e pago;própria;bom
+967;0<=X<200;crítica / outros de crédito existente;própria;ruim
+968;sem cheque;existente e pago;alugada;bom
+969;sem cheque;existente e pago;alugada;bom
+970;<0;crítica / outros de crédito existente;própria;bom
+971;0<=X<200;existente e pago;própria;bom
+972;sem cheque;existente e pago;própria;bom
+973;<0;todos pagos;alugada;ruim
+974;<0;existente e pago;alugada;ruim
+975;sem cheque;crítica / outros de crédito existente;própria;bom
+976;>=200;existente e pago;própria;bom
+977;0<=X<200;existente e pago;própria;bom
+978;0<=X<200;atrasos anteriores;própria;bom
+979;sem cheque;atrasos anteriores;própria;ruim
+980;0<=X<200;todos pagos;alugada;ruim
+981;0<=X<200;crítica / outros de crédito existente;própria;ruim
+982;sem cheque;existente e pago;alugada;ruim
+983;>=200;existente e pago;própria;bom
+984;<0;existente e pago;própria;ruim
+985;sem cheque;crítica / outros de crédito existente;própria;bom
+986;<0;crítica / outros de crédito existente;alugada;bom
+987;>=200;sem créditos/todos pagos;própria;bom
+988;sem cheque;existente e pago;própria;bom
+989;<0;existente e pago;gratuitamente;bom
+990;0<=X<200;crítica / outros de crédito existente;própria;bom
+991;sem cheque;crítica / outros de crédito existente;própria;bom
+992;sem cheque;todos pagos;própria;bom
+993;<0;existente e pago;alugada;bom
+994;<0;existente e pago;própria;bom
+995;sem cheque;existente e pago;própria;bom
+996;sem cheque;existente e pago;própria;bom
+997;<0;existente e pago;própria;bom
+998;sem cheque;existente e pago;própria;bom
+999;<0;existente e pago;gratuitamente;ruim
+1000;0<=X<200;crítica / outros de crédito existente;própria;bom
